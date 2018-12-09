@@ -2,4 +2,4 @@
 repository
 
 
-writing a bit aboutmyself
+writing a bit about myself
